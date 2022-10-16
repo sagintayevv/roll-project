@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "филадельфия хит ролл",
+        "itemsInbox": 6,
+        "weight": 180,
+        "price": 300,
+        "imgSrc": "philadelphia.jpg"
+    },
+    {
+        "id": 2,
+        "title": "филадельфия хит ролл",
+        "itemsInbox": 6,
+        "weight": 180,
+        "price": 300,
+        "imgSrc": "philadelphia.jpg"
+    },
+    {
+        "id": 3,
+        "title": "филадельфия хит ролл",
+        "itemsInbox": 6,
+        "weight": 180,
+        "price": 300,
+        "imgSrc": "philadelphia.jpg"
+    },
+    {
+        "id": 4,
+        "title": "филадельфия хит ролл",
+        "itemsInbox": 6,
+        "weight": 180,
+        "price": 300,
+        "imgSrc": "philadelphia.jpg"
+    }
+]
